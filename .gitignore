@@ -5,3 +5,8 @@ local.properties
 /build/
 **/build/
 *.iml
+*.jks
+*.keystore
+key.properties
+secrets.properties
+.env
