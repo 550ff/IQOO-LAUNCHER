@@ -2,7 +2,7 @@ name: Build IQOO Launcher APK
 on:
   workflow_dispatch:
   push:
-    branches: [ "v1.0" ]
+    branches: [ "v1.0", "phase-1-ci-candidate" ]
 permissions:
   contents: read
 jobs:
